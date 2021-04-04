@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarvinS23, working at german aerospace center (DLR) and studying at university of applied sciences Munich (HM)
-- 👀 I’m interested in: simulations, machine learning and other cool stuff
+- 👀 I’m interested in: simulations, machine learning, everything with rocket science and physics and other cool stuff
 - 🌱 I’m currently learning: Deep Reinforcement Learning
 - 💞️ I’m looking to collaborate on: open for everything
 - 📫 How to reach me: SimonMarvin@web.de
